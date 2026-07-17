@@ -27,12 +27,13 @@ By the end of this 110-minute session, learners will be able to:
 
 | File | What it's for |
 |------|--------------|
-| `lesson.md` | The main lesson plan for instructors |
+| `lesson.md` | The main lesson plan and in-class walkthrough |
 | `pre-class.md` | What learners should do before class |
 | `assignment.md` | Practice activities after class |
 | `git_command_cheatsheet.md` | Quick reference for essential Git commands |
 | `git_troubleshooting_decision_tree.md` | Step-by-step help when something goes wrong |
 | `reference.md` | Colab reference guide |
+| `facilitator_guide.md` | Prep notes and delivery tips for whoever runs the session |
 
 ---
 

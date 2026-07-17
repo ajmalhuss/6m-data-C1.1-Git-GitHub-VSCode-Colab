@@ -38,8 +38,6 @@ By the end of this session, you will be able to:
 
 ## 📘 Module 1: What is Git & GitHub? (15 mins)
 
-> **Instructor note:** open with a 2-minute recap of the pre-class video ([Git & GitHub Zero to Hero](https://youtu.be/1I79WAZ4uSU)) and a quick "what stuck / what confused you?" — don't assume everyone watched it.
-
 ### The Problem Git Solves
 
 Imagine you are writing an important report. You save it as `Report_Final.docx`. Then you make more changes: `Report_Final_v2.docx`. Then `Report_Final_REAL_v3.docx`. Sound familiar?
@@ -148,10 +146,6 @@ Now the project is on your computer. You can edit it locally, then push changes 
 
 > 🛟 **If your setup can't be fixed in a few minutes:** don't sit out — do the whole session on **github.com in the browser** instead. You can create repos, add/edit files, and commit entirely on the website (pencil icon → edit → Commit changes). You'll miss the VS Code steps but keep every Git concept. Fix your local setup after class using `pre-class.md` + the troubleshooting guide.
 
-> **Instructor note:** GitHub redesigns its UI often. Before class, click through the exercise once and confirm button names/locations below still match ("+ icon", "green Code button", "pencil icon", "Settings → Collaborators").
->
-> **Instructor note — network failure plan:** this session is 100% dependent on Wi-Fi and GitHub being up, and classroom Wi-Fi with 30 people cloning at once *will* struggle. If the network dies: switch to concepts + the merge-conflict demo (steps 2–5 work fully offline in a local repo), and run the push/pull portions when it recovers.
-
 ---
 
 ## 💻 Exercise A: Your First Repository & Commit (22 mins)
@@ -217,8 +211,6 @@ Now the project is on your computer. You can edit it locally, then push changes 
 ✅ Go to your GitHub repository and refresh the page — you should see `notes.txt` there!
 
 > 🏃 **Finished early?** Add a second file (e.g. `about-me.txt`), then stage, commit, and push it too. In the VS Code terminal, try `git log --oneline` to see your commit history.
->
-> **Instructor note:** learners move at very different speeds here. Watch for anyone silently stuck — a stalled clone or failed push is easy to hide. Circulate rather than waiting for hands.
 
 ---
 
@@ -291,8 +283,6 @@ Sometimes the same line gets changed in two places before you can pull. Git can'
 *Goal: Practice collaborating with a partner on the same repository, without branches — just the Pull → Edit → Stage → Commit → Push loop you already know.*
 
 Pair up with one classmate. One of you is the **Repo Owner**, the other is the **Collaborator**. *(Odd number in class? Make one group of three — one Owner, two Collaborators.)*
-
-> **Instructor note:** pair a confident learner with a slower one — in a pair, one broken setup blocks *both* people. Also: collaborator invites arrive by email/notification and can lag a minute or two; send them at the very start of this exercise so acceptance isn't the bottleneck.
 
 ### Step 1 — Owner: Create the Repo & Add Collaborator
 
