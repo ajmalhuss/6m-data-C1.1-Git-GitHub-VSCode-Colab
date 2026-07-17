@@ -75,11 +75,14 @@ You use Git *locally* (on your computer), and GitHub *remotely* (in the cloud).
 | Term | Plain English |
 |------|--------------|
 | **Repository (Repo)** | A project folder that Git is tracking |
+| **Clone** | Making your own full copy of a GitHub project onto your computer, like downloading a shared Google Doc to edit offline |
+| **Branch** | A safe side-copy of your project to try changes without touching the main version, like "Save As" a draft before editing the original |
+| **Stage** | Marking changed files as "ready to include" in your next commit |
 | **Commit** | A saved snapshot with a label describing what changed |
 | **Push** | Sending your snapshots from your computer up to GitHub |
 | **Pull** | Downloading the latest snapshots from GitHub to your computer |
-| **Clone** | Making your own full copy of a GitHub project onto your computer, like downloading a shared Google Doc to edit offline |
-| **Branch** | A safe side-copy of your project to try changes without touching the main version, like "Save As" a draft before editing the original |
+| **Pull Request (PR)** | A request to merge your branch's changes into another branch, with a chance for others to review first |
+| **Merge** | Combining changes from one branch into another |
 
 ---
 
